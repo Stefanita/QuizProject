@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizProject</string>
+    <string name="intro_text">Bine ati venit! Selectati categoria quizzului</string>
+    <string name="rasp_d_text">Rasp D</string>
+    <string name="rasp_c_text">Rasp C</string>
+    <string name="rasp_b_text">Rasp B</string>
+    <string name="rasp_a_text">Rasp A</string>
+    <string name="intrebare_text">Intrebare</string>
+    <string name="scor_text">Scor</string>
+</resources>
